@@ -1,0 +1,11 @@
+C:\Program Files（x）\VS Demo\AriaNG\WindowsApp1\bin\Debug\AriaNG-WebGui For Windows.exe
+C:\Program Files（x）\VS Demo\AriaNG\WindowsApp1\bin\Debug\AriaNG-WebGui For Windows.pdb
+C:\Program Files（x）\VS Demo\AriaNG\WindowsApp1\bin\Debug\AriaNG-WebGui For Windows.xml
+C:\Program Files（x）\VS Demo\AriaNG\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Program Files（x）\VS Demo\AriaNG\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Program Files（x）\VS Demo\AriaNG\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Program Files（x）\VS Demo\AriaNG\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Program Files（x）\VS Demo\AriaNG\WindowsApp1\obj\Debug\AriaNG-WebGui For Windows.exe
+C:\Program Files（x）\VS Demo\AriaNG\WindowsApp1\obj\Debug\AriaNG-WebGui For Windows.xml
+C:\Program Files（x）\VS Demo\AriaNG\WindowsApp1\obj\Debug\AriaNG-WebGui For Windows.pdb
+C:\Program Files（x）\VS Demo\AriaNG\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
